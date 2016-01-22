@@ -20,11 +20,11 @@ Suggestions for badges you can use in your personal GitHub repos to help guide t
 
 ## author-usage
 
-![This project is a dependency of the author's other projects.](https://img.shields.io/badge/author--usage-dependency-green.png "This project is a dependency of the author's other projects")
+![This project is a dependency of the author's other projects.](https://img.shields.io/badge/author--usage-dependency-brightgreen.png "This project is a dependency of the author's other projects")
 
 ![This project has never been used by its author, other than while making it.](https://img.shields.io/badge/author--usage-never-red.png "This project has never been used by its author, other than while making it")
 
-![This project's author is using it in production.](https://img.shields.io/badge/author--usage-production-green.png "This project's author is using it in production")
+![This project's author is using it in production.](https://img.shields.io/badge/author--usage-production-brightgreen.png "This project's author is using it in production")
 
 ### origin
 
